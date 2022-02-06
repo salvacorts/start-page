@@ -15,5 +15,15 @@ var favourtites = [
     {
         name: "Reclaim",
         url: "https://app.reclaim.ai"
+    },
+    {
+        name: "Udemy",
+        url: "https://grafanalabs.udemy.com",
+        image:"https://grafanalabs.udemy.com/staticx/udemy/images/v8/favicon-32x32.png"
+    },
+    {
+        name: "Grafana Ops",
+        url: "https://ops.grafana.net",
+        image: "https://ops.grafana.net/public/img/fav32.png"
     }
 ]
