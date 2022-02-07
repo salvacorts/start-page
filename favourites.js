@@ -25,5 +25,10 @@ var favourtites = [
         name: "Grafana Ops",
         url: "https://ops.grafana.net",
         image: "https://ops.grafana.net/public/img/fav32.png"
-    }
+    },
+    {
+        name: "Drive",
+	url: "https://drive.google.com/",
+	image: "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png"
+    },
 ]
