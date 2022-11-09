@@ -34,5 +34,6 @@ var favourtites = [
     {
         name: "Typing",
         url: "https://www.typing.com/student/lessons",
+	image: "https://www.typing.com/favicon.ico"
     },
 ]
