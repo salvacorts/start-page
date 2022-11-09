@@ -31,4 +31,8 @@ var favourtites = [
 	url: "https://drive.google.com/",
 	image: "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png"
     },
+    {
+        name: "Typing",
+        url: "https://www.typing.com/student/lessons",
+    },
 ]
