@@ -34,6 +34,6 @@ var favourtites = [
     {
         name: "Typing",
         url: "https://www.typing.com/student/lessons",
-	image: "https://www.typing.com/favicon.ico"
+	image: "https://sites.google.com/a/sugarsalem.com/central-computer-lab/_/rsrc/1585751705626/typing/typingcom.png?height=200&width=200"
     },
 ]
